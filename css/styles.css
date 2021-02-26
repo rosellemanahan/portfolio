@@ -25,7 +25,8 @@
 
   body .info-title {
     font-size: 25px;
-    margin-bottom: 15%;
+    margin-bottom: 0%;
+    margin-top: 7%;
   }
 
   body .description {
@@ -61,7 +62,8 @@
 @media only screen and (max-width:990px) {
   body .info-title {
     font-size: 30px;
-    margin-bottom: 10%;
+    margin-bottom: 0%;
+    margin-top: 7%;
   }
 
   body .description {
@@ -97,7 +99,7 @@
 
   body .info-title {
     font-size: 30px;
-    margin-bottom: 15%;
+    margin-bottom: 2%;
   }
 
   body .description, body .description2 {
@@ -366,7 +368,7 @@ padding: 0 15% 0;
   color: #fff;
   font-family: 'Manrope', sans-serif;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 22px;
 }
 
 .inline-images {
@@ -420,7 +422,7 @@ padding: 0 15% 0;
   color: white;
   font-family: 'Manrope', sans-serif;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 22px;
   margin: auto 0 auto;
 }
 
@@ -481,6 +483,7 @@ padding: 0 15% 0;
   width: 50px;
   height: 50px;
 }
+
 
 .animate__animated.animate__fadeInUp {
   --animate-duration: 2s;
