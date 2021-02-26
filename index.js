@@ -10,7 +10,6 @@ $(".intro-image").hover(function() {
 }, function() {
   // $(".intro-image").animate({opacity:0.75});
   $(".intro-image").attr("src", "images/sablay-BW.jpg");
-  $(".intro-image").fadeTo("fast", 0.5);
 });
 
 $(".strategy").hover(function() {
